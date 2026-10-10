@@ -17,7 +17,7 @@ I explore complex systems through simulation, statistical modeling, and machine 
 
 In the glass bridge game from *Squid Game*, the math says about 7 of 16 players should survive. In the show, 3 do. This simulator asks how much being human costs, modeling hesitation under a ticking clock and players pushing each other, then validating the ideal-play case against the exact odds. Every run is seeded and reproducible.
 
-*Medium article coming soon.*
+📝 **Read the article:** [The Deadliest Thing in Squid Game Wasn't the Glass. It Was Hesitation.](https://medium.com/@jesfel/the-deadliest-thing-in-squid-game-wasnt-the-glass-it-was-hesitation-bc64ab3df9f5)
 
 ### 🏎️ Formula 1 Data Platform (work in progress)
 **Data Engineering · Medallion Architecture · Docker · PostgreSQL · Python**
