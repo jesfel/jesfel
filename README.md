@@ -1,6 +1,6 @@
 # Hi, I'm Felipe 👋
 
-**Data Scientist | Data Engineer | Statistics & Applied Machine Learning**
+**Analytics Engineer | Statistics & Applied Machine Learning**
 
 💼 [LinkedIn](https://www.linkedin.com/in/jesfel) · ✍️ [Medium](https://medium.com/@jesfel) · 🌐 [jesfel.github.io](https://jesfel.github.io)
 
